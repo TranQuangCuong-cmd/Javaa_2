@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/Update.java=UTF-8
+encoding//src/main/java/controller/loaiadminControler.java=UTF-8
+encoding//src/main/java/controller/sachadminController.java=UTF-8
+encoding//src/main/java/dao/adminsachdao.java=UTF-8
+encoding//src/main/java/dao/chitiethoadondao.java=UTF-8
+encoding//src/main/java/dao/hoadondao.java=UTF-8
+encoding//src/main/java/dao/loaidao.java=UTF-8
+encoding//src/main/java/dao/sachdao.java=UTF-8
+encoding//src/main/webapp/Upload.jsp=UTF-8
+encoding//src/main/webapp/addsach.jsp=UTF-8
+encoding//src/main/webapp/danggiaohang.jsp=UTF-8
+encoding/<project>=Cp1252
